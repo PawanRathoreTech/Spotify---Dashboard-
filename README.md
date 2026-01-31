@@ -4,7 +4,7 @@ Home
 ![Dashboard Preview](Home.png)
 
 Overview
-![Dashboard Preview](Overview1.png)
+![Dashboard Preview](Overview 1.png)
 
 Artists
 ![Dashboard Preview](Artists1.png)
