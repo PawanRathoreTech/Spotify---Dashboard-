@@ -4,22 +4,22 @@ Home
 ![Dashboard Preview](Home.png)
 
 Overview
-![Dashboard Preview](Overview-1.png)
+![Dashboard Preview](Overview%201.png)
 
 Artists
-![Dashboard Preview](Artists-1.png)
+![Dashboard Preview](Artists%201.png)
 
 Songs
-![Dashboard Preview](Song-1.png)
+![Dashboard Preview](Song%201.png)
 
 Overview2
-![Dashboard Preview](Overview-2.png)
+![Dashboard Preview](Overview%202.png)
 
 Artists2
-![Dashboard Preview](Artists-2.png)
+![Dashboard Preview](Artists%202.png)
 
 Songs2
-![Dashboard Preview](Songs-2.png)
+![Dashboard Preview](Songs%202.png)
 
 
 
