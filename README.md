@@ -16,7 +16,7 @@ Overview2
 ![Dashboard Preview](Overview%202.png)
 
 Artists2
-![Dashboard Preview](Artists%202.png)
+![Dashboard Preview](Aritists%202.png)
 
 Songs2
 ![Dashboard Preview](Songs%202.png)
