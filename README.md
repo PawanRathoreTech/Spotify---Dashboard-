@@ -1,5 +1,28 @@
 # Spotify---Dashboard-
 
+Home
+![Dashboard Preview](Home.png)
+
+Overview
+![Dashboard Preview](Overview.png)
+
+Artists
+![Dashboard Preview](Artists.png)
+
+Songs
+![Dashboard Preview](Songs.png)
+
+Overview2
+![Dashboard Preview](Overview1.png)
+
+Artists2
+![Dashboard Preview](Artists2.png)
+
+Songs2
+![Dashboard Preview](Songs2.png)
+
+
+
 👋 Welcome!
 
 This repository contains a **Power BI music analytics dashboard** built to explore global Spotify chart data.  
@@ -49,5 +72,7 @@ If you found this useful or interesting, consider giving the repo a ⭐ — it r
 👤 About Me  
 I’m **PawanRathore**, a data analytics enthusiast with a strong interest in **Power BI, DAX, and data visualization**.  
 I enjoy working on real-world datasets and building dashboards that turn complex data into clear, actionable insights.
-🔗 **LinkedIn:** 
+
+🔗 **LinkedIn:** https://www.linkedin.com/in/pawan-rathore-b32b08383/ 
+
 Always learning, always improving 🚀
